@@ -1,4 +1,4 @@
-# Strogonoff de Frango :chicken:
+# Strogonoff de Frango :chicken: :fork_and_knife:
 
 ## Ingredientes
 - 3 peitos de frango cortados em cubos
